@@ -20,7 +20,7 @@ BEGIN:VEVENT
 DTSTAMP:20220517T064437Z
 DTSTART;TZID=Australia/Brisbane:20220526T120000
 DTEND;TZID=Australia/Brisbane:20220526T124500
-SUMMARY:Logistic Regression: Analysing Categorical Variables
+SUMMARY:Analysing Categorical Variables
 TZID:Australia/Brisbane
 DESCRIPTION:Hi there\, \n\nQCIF Training is inviting you to a scheduled A
  ARNet Zoom meeting. \n\nJoin from PC\, Mac\, Linux\, iOS or Android: htt
