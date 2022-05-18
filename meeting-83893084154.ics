@@ -1,0 +1,44 @@
+BEGIN:VCALENDAR
+PRODID:-//zoom.us//iCalendar Event//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+CLASS:PUBLIC
+BEGIN:VTIMEZONE
+TZID:Australia/Brisbane
+LAST-MODIFIED:20220317T223602Z
+TZURL:http://tzurl.org/zoneinfo-outlook/Australia/Brisbane
+X-LIC-LOCATION:Australia/Brisbane
+BEGIN:STANDARD
+TZNAME:AEST
+TZOFFSETFROM:+1000
+TZOFFSETTO:+1000
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20220517T064437Z
+DTSTART;TZID=Australia/Brisbane:20220526T120000
+DTEND;TZID=Australia/Brisbane:20220526T124500
+SUMMARY:Logistic Regression: Analysing Categorical Variables
+TZID:Australia/Brisbane
+DESCRIPTION:Hi there\, \n\nQCIF Training is inviting you to a scheduled A
+ ARNet Zoom meeting. \n\nJoin from PC\, Mac\, Linux\, iOS or Android: htt
+ ps://aarnet.zoom.us/j/83893084154?pwd=LxE41OXO1filzxCjLSjFERpPPHuD3T.1\n
+     Password: 251689\n\nOr iPhone one-tap :\n    Australia: +61280152088
+ \,\,83893084154# \nOr Telephone:\n    Dial(for higher quality\, dial a n
+ umber based on your current location): \n        Australia: +61 2 8015 2
+ 088 \n    Meeting ID: 838 9308 4154\n    Password: 251689\n    Internati
+ onal numbers available: https://aarnet.zoom.us/u/kcWTqwWQ5W\n\nOr an H.3
+ 23/SIP room system:\n    Dial: 83893084154@zoom.aarnet.edu.au\n    or 83
+ 893084154@zmau.us\n    or 103.122.166.55\n    Meeting ID: 83893084154\n 
+    H323/SIP Password: 251689\n\n
+LOCATION:https://aarnet.zoom.us/meeting/register/tZclfuqopj8rH9D8jDwXtaSV
+ ROPLHkSxK9YH
+BEGIN:VALARM
+TRIGGER:-PT10M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+END:VCALENDAR
